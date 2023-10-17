@@ -1,7 +1,7 @@
 evadb
-torch
-transformers
-opencv-python
 eva-decord
 openai
-pytube>=15.0.0
+panda
+os
+embedchain
+from embedchain import App
